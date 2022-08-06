@@ -17,9 +17,8 @@ body {
 }
 
 #headtext {
-    margin: 0px !important;
+    margin: -15px 280px 0 0 ;
     padding: 0px;
-    display: flex;
     line-height: 0.3;
 
 
@@ -29,9 +28,8 @@ body {
     width: 50px;
     height: 50px;
     float: right;
-    padding-bottom: 0px;
     margin: 0;
-    padding-left: 600px;
+    
 }
 
 .left {
@@ -49,13 +47,14 @@ body {
 }
 
 #outline {
-    height: 40%;
-    width: 40%;
+    height: 700px;
+    width: 450px;
     margin: auto;
     border: solid white;
     background-color: white;
    margin-top: 5%;
 }
 .fitbetter {
-    width:100px;
+    display: flex;
+    padding-top: 10px;
 }
